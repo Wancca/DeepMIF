@@ -13,14 +13,7 @@ This repository contains the source code and datasets for the paper **"DeepMIF: 
 To reproduce the results, we recommend using a Linux or Windows environment with an NVIDIA GPU (CUDA supported).
 
 #### Dependencies
-*   Python >= 3.8
-*   PyTorch >= 1.10
-*   RDKit (for molecular graph generation)
-*   BioPython
-*   Scikit-learn
-*   NumPy
-*   Pandas
-*   NetworkX
+environment.yaml
 
 You can install the required packages using the following command:
 ```bash
